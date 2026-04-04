@@ -233,7 +233,7 @@ All dependencies use MIT License — unrestricted commercial use permitted:
 
 ## 👤 Team
 
-**Team ECOS** · neoBIM GmbH Hackathon 2026  
+**Team ECOS B** · neoBIM GmbH Hackathon 2026  
 Agreement Reference: HACK-2026-001
 
 ---
