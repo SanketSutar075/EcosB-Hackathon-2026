@@ -8,6 +8,15 @@ This project was developed as part of Team ECOS B (neoBIM Hackathon 2026). My ke
 - Worked on frontend components using React (dashboard & agent interaction UI)
 - Collaborated on system integration and inter-agent communication flow
 
+## 🚀 Key Highlights
+- Built a full-stack AI agent system with 10-agent workflow
+- Implemented Human-in-the-Loop decision checkpoints
+- Designed scalable backend architecture for agent orchestration
+
+## 🛠️ Tech Stack (My Work Focus)
+- Backend: Node.js, Express.js (API Development)
+- Frontend: React.js (Dashboard UI)
+- Architecture: Multi-Agent AI System Design
 
 # ECOS — AI-Powered Product Launch Platform
 
