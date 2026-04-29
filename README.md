@@ -1,3 +1,14 @@
+## 👨‍💻 My Contribution (Team Project)
+
+This project was developed as part of a team (Team ECOS B). My key contributions include:
+
+- Contributed to development of the multi-agent AI pipeline architecture
+- Worked on backend logic using Node.js & Express
+- Assisted in designing API endpoints for agent execution and workflow orchestration
+- Collaborated on frontend components using React.js
+- Participated in system design discussions and integration of AI agent workflow
+
+
 # ECOS — AI-Powered Product Launch Platform
 
 > **neoBIM GmbH Hackathon 2026 · Team ECOS**  
